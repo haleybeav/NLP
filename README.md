@@ -1,5 +1,5 @@
 # NLP
-Projects completed in CSCI 404 Natural Language Processing at WWU under Professor Dr. Yudong Liu. 
+Projects completed in Natural Language Processing course, all done as pair programming assignments with Robert Harley (xmannyh). 
 
 
 ### Edit-Dist
