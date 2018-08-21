@@ -11,7 +11,5 @@ Wrote N-Gram Language Model Algorithm, given a sample text word sequence probabi
 ### Naïve-Bayes
 Implemented Naïve Bayes Algorithm to classify e-mails as spam or non-spam. Given a corpus of spam, and non-spam e-mails use Bayesian statistics to classify never before seen e-mails as spam or non-spam. A probabilstic classifier that can be used for an arbitrary number of classes.
 
-{\displaystyle p(C_{k}\mid \mathbf {x} )={\frac {p(C_{k})\ p(\mathbf {x} \mid C_{k})}{p(\mathbf {x} )}}\,}
-
 ### Viterbi-Decode
 Implemented Hidden Markov Model (HMM) and decoded probability of sequence of events using the Viterbi Algorithm. Gathered counts for emission, transition, and initial probabilities from training set of sequences, then applied these learned probabilities onto never before seen sequences to predict how likely they are to occur.
