@@ -1,4 +1,4 @@
-# NLP
+# Natural Language Processing
 Projects completed in Natural Language Processing course, all done as pair programming assignments with Robert Harley (xmannyh). 
 
 
